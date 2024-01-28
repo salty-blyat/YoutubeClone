@@ -1,0 +1,1193 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "T5nUB2BDFobN_FVogMkfDHe2oqE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "5VH_7fy9p3Jh6mTK6dIf9Gv_H7E",
+      "id": "eif_8yA2WhA",
+      "snippet": {
+        "publishedAt": "2023-10-26T17:00:07Z",
+        "channelId": "UCBJn8qy6bI82Oh34kzHViPQ",
+        "title": "beabadoobee, Laufey - A Night To Remember (Official Music Video)",
+        "description": "Music video by beabadoobee, Laufey performing A Night To Remember. © 2023 beabadoobee / Laufey\n\nhttp://vevo.ly/09OUik",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eif_8yA2WhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eif_8yA2WhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eif_8yA2WhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eif_8yA2WhA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eif_8yA2WhA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "beabadoobeeVEVO",
+        "tags": [
+          "beabadoobee",
+          "Laufey",
+          "Night",
+          "Remember",
+          "Beabadoobee/Laufey",
+          "Pop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "beabadoobee, Laufey - A Night To Remember (Official Music Video)",
+          "description": "Music video by beabadoobee, Laufey performing A Night To Remember. © 2023 beabadoobee / Laufey\n\nhttp://vevo.ly/09OUik"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1864276",
+        "likeCount": "94793",
+        "favoriteCount": "0",
+        "commentCount": "1578"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NKx9p3zL3P8fGxn_5JonoD0UFZo",
+      "id": "zw47ymC0RNQ",
+      "snippet": {
+        "publishedAt": "2019-09-06T17:39:09Z",
+        "channelId": "UCsjE7YaZWToV4035Y1-XJpQ",
+        "title": "saib. - in your arms.",
+        "description": "https://soundcloud.com/saib_eats/in-your-arms-1\n\nOriginal song : fly away - Jang Yoon Ju, \nim just the editor to this video, saib has it uploaded on sound cloud where he does give credit so chill\n\nAnime/film: garden of words",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zw47ymC0RNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zw47ymC0RNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zw47ymC0RNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zw47ymC0RNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zw47ymC0RNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1171dominoV2",
+        "tags": [
+          "1171domino",
+          "saib",
+          "saib in your arms"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "saib. - in your arms.",
+          "description": "https://soundcloud.com/saib_eats/in-your-arms-1\n\nOriginal song : fly away - Jang Yoon Ju, \nim just the editor to this video, saib has it uploaded on sound cloud where he does give credit so chill\n\nAnime/film: garden of words"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11626103",
+        "likeCount": "278429",
+        "favoriteCount": "0",
+        "commentCount": "3883"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KA2f67u-gTNvnTl3PrTQkjUcQh8",
+      "id": "S2TaAcwC_zI",
+      "snippet": {
+        "publishedAt": "2023-09-01T15:18:41Z",
+        "channelId": "UCX3IrV7uIir6yzMM9kOtH1Q",
+        "title": "Kenya Grace - Strangers (Official Lyric Video)",
+        "description": "Listen to 'Strangers' here: https://majorrecordings.lnk.to/strangers\n\nFollow Kenya Grace:\nhttps://www.instagram.com/kenyagrace\nhttps://www.tiktok.com/@kenyagracebaby\nhttps://www.youtube.com/@kenyagracebaby/\n\nCredits:\nDirector: Ben Hanning\nShot by Julius Gutierrez\nColor by Julius Gutierrez\nEdit by Ben Hanning\nProduction Company: SPACEHRTS\n\nLyrics:\nIt always ends the same\nwhen it was me and you\nbut every time I meet somebody new \nits like de ja vu\n\nI swear they sound the same \nIts like they know my skin\nevery word they say sounds just like him \nand it goes like this\n\nwe’ll get in ur car and \nyou’ll lean to kiss me \nwe’ll talk for hours\nand lie on the back seat \n\nUh huh uh huh\n\nThen one random night  \nwhen everything changes  \nYou wont reply \nand we’ll go back to strangers \n\nUh huh uh huh\n\nit’s something that I hate \nhow everyones disposable \nnow every time I date somebody new \nI feel vulnerable \n\nthat it’ll never change \n& it will just stay like this \nnever ending dating breaking up\nand it goes like this \n\nwe’ll get in ur car and \nyou’ll lean to kiss me \nwe’ll talk for hours\nand lie on the back seat \n\nUh huh uh huh\n\nThen one random night  \nwhen everything changes  \nYou wont reply \nand we’ll go back to strangers \n\nUh huh uh huh\n\nIt always ends the same\nwhen it was me and u \nbut every time I meet somebody new \nits like de ja vu\n\nwhen we spoke for months \ndid u ever mean it? \nhow can they say that this is love?\nwhen it goes like this\n\nwe’ll get in ur car and \nyou’ll lean to kiss me \nwe’ll talk for hours\nand lie on the back seat \n\nUh huh uh huh\n\nThen one random night  \nwhen everything changes  \nYou wont reply \nand we’ll go back to strangers \n\nUh huh uh huh\n\n#KenyaGrace #Strangers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2TaAcwC_zI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2TaAcwC_zI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2TaAcwC_zI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S2TaAcwC_zI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S2TaAcwC_zI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kenya Grace",
+        "tags": [
+          "Kenya Grace",
+          "Strangers",
+          "New Music",
+          "Viral Hits",
+          "New song",
+          "and it goes like this",
+          "And it goes like this song",
+          "We'll get in your car",
+          "Lyrics",
+          "Official lyric video",
+          "Car song",
+          "Car playlist",
+          "Roadtrip playlist",
+          "well get in your car",
+          "we'll get in ur car",
+          "lean to kiss me",
+          "and you'll lean to kiss me",
+          "we'll talk for hours",
+          "and lie on the backseat",
+          "lie on the backseat",
+          "uh-huh uh-huh",
+          "uh huh uh huh"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kenya Grace - Strangers (Official Lyric Video)",
+          "description": "Listen to 'Strangers' here: https://majorrecordings.lnk.to/strangers\n\nFollow Kenya Grace:\nhttps://www.instagram.com/kenyagrace\nhttps://www.tiktok.com/@kenyagracebaby\nhttps://www.youtube.com/@kenyagracebaby/\n\nCredits:\nDirector: Ben Hanning\nShot by Julius Gutierrez\nColor by Julius Gutierrez\nEdit by Ben Hanning\nProduction Company: SPACEHRTS\n\nLyrics:\nIt always ends the same\nwhen it was me and you\nbut every time I meet somebody new \nits like de ja vu\n\nI swear they sound the same \nIts like they know my skin\nevery word they say sounds just like him \nand it goes like this\n\nwe’ll get in ur car and \nyou’ll lean to kiss me \nwe’ll talk for hours\nand lie on the back seat \n\nUh huh uh huh\n\nThen one random night  \nwhen everything changes  \nYou wont reply \nand we’ll go back to strangers \n\nUh huh uh huh\n\nit’s something that I hate \nhow everyones disposable \nnow every time I date somebody new \nI feel vulnerable \n\nthat it’ll never change \n& it will just stay like this \nnever ending dating breaking up\nand it goes like this \n\nwe’ll get in ur car and \nyou’ll lean to kiss me \nwe’ll talk for hours\nand lie on the back seat \n\nUh huh uh huh\n\nThen one random night  \nwhen everything changes  \nYou wont reply \nand we’ll go back to strangers \n\nUh huh uh huh\n\nIt always ends the same\nwhen it was me and u \nbut every time I meet somebody new \nits like de ja vu\n\nwhen we spoke for months \ndid u ever mean it? \nhow can they say that this is love?\nwhen it goes like this\n\nwe’ll get in ur car and \nyou’ll lean to kiss me \nwe’ll talk for hours\nand lie on the back seat \n\nUh huh uh huh\n\nThen one random night  \nwhen everything changes  \nYou wont reply \nand we’ll go back to strangers \n\nUh huh uh huh\n\n#KenyaGrace #Strangers"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "44556261",
+        "likeCount": "694724",
+        "favoriteCount": "0",
+        "commentCount": "8040"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8HePnb_0fksMOYVl_6PNyV4s5M8",
+      "id": "LIIDh-qI9oI",
+      "snippet": {
+        "publishedAt": "2021-04-23T04:00:06Z",
+        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+        "title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
+        "description": "Official music video by The Weeknd & Ariana Grande performing \"Save Your Tears\" (Remix), available everywhere now: https://TheWeeknd.lnk.to/SYTRMX\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD\n\n►Get exclusive merch: https://shop.theweeknd.com\n\n►Follow The Weeknd:\nhttps://www.theweeknd.com\nhttps://instagram.com/theweeknd\nhttps://twitter.com/theweeknd\nhttps://facebook.com/theweeknd\nhttps://snapchat.com/add/theweeknd\nhttps://triller.co/@theweeknd\nhttps://tiktok.com/@theweeknd\n\nProduction Company: Blinkink @blink_ink\nDirector: Jack Brown - @jbanimation\nExecutive Producer: Josef Byrne @philipphlop \nProducers: Matt Marsh, Dom Thompson-Talbot & Sami Goddard\nStoryboard Artist: Sav Akyüz @splitwigs\n\nDesign:\nPete Sharp @petesharp.universe\nDexter Maurer @dextermaurer\nJames Neilson @jamesxneilson\n\nCharacter Design: Jack Brown - @jbanimation\n\nAnimation:\nAnita Gill @_anitagill\nAndrew Khosravani @andrew_khosravani\nEd Smith @boxbeatrobot\nKatherine Spangenberg @katiediazz.art\nGaurav Wakankar @gwakankar\nMaki Yoshikura @maki_animation\nMichael Towers @michael.towers\nNikunj Patel @spiralofsorts\nThomas Knowler @knowlerdraws\n\nCompositors:\nJonathan Gallagher @grasptheview\nPaul Cheshire @paul_cheshire\nAdriano Vessichelli @adrianovessichelli\n\nEditor: David Toba @ediztor\n\nLyrics:\nTHE WEEKND\nI saw you dancing in a crowded room\nYou look so happy when I’m not with you\nBut then you saw me caught you by surprise\nA single teardrop falling from your eyes\nI don’t know why I run away\nI make you cry when I run away\nYou could’ve asked my why I broke your heart\nYou could’ve told me that you fell apart\nBut you walked past me like I wasn’t there\nAnd just pretended like you didn’t care\nI don’t know why I run away\nI make you cry when I run away\nTake me back cause I wanna stay\nSave your tears for another…\nSave your tears for another day\nSave your tears for another day\n\nARIANA GRANDE\nMet you once under a Pisces moon\nI kept my distance ‘cause I know that you\nDon’t like when I’m with nobody else\nI couldn’t help it, I put you through hell\nI don’t know why I run away, oh boy\nI make you cry when I run away\nBoy take me back ‘cause I wanna stay\nSave your tears for another\nI realize that it’s much too late\nAnd you deserve someone better\n\nTHE WEEKND & ARIANA GRANDE\nSave your tears for another day\nSave your tears for another day\nI don’t know why, I run away\nI make you cry when I run away\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\n\n#TheWeeknd #ArianaGrande #SaveYourTearsRemix",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIIDh-qI9oI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIIDh-qI9oI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIIDh-qI9oI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LIIDh-qI9oI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LIIDh-qI9oI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TheWeekndVEVO",
+        "tags": [
+          "ariana grande",
+          "the weeknd",
+          "the weekend",
+          "ariana weeknd",
+          "the weeknd save your tears",
+          "the weeknd ariana grande",
+          "save your tears ariana grande",
+          "save your tears ariana",
+          "save your tears for another day",
+          "save your tears remix",
+          "save your tears remix reaction",
+          "save your tears cover",
+          "save your tears lyrics",
+          "save your tears slowed",
+          "save your tears remix ariana grande",
+          "ariana grande remix",
+          "the weeknd remix",
+          "ariana grande weeknd remix",
+          "ザ・ウィークエンド",
+          "위켄드"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
+          "description": "Official music video by The Weeknd & Ariana Grande performing \"Save Your Tears\" (Remix), available everywhere now: https://TheWeeknd.lnk.to/SYTRMX\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD\n\n►Get exclusive merch: https://shop.theweeknd.com\n\n►Follow The Weeknd:\nhttps://www.theweeknd.com\nhttps://instagram.com/theweeknd\nhttps://twitter.com/theweeknd\nhttps://facebook.com/theweeknd\nhttps://snapchat.com/add/theweeknd\nhttps://triller.co/@theweeknd\nhttps://tiktok.com/@theweeknd\n\nProduction Company: Blinkink @blink_ink\nDirector: Jack Brown - @jbanimation\nExecutive Producer: Josef Byrne @philipphlop \nProducers: Matt Marsh, Dom Thompson-Talbot & Sami Goddard\nStoryboard Artist: Sav Akyüz @splitwigs\n\nDesign:\nPete Sharp @petesharp.universe\nDexter Maurer @dextermaurer\nJames Neilson @jamesxneilson\n\nCharacter Design: Jack Brown - @jbanimation\n\nAnimation:\nAnita Gill @_anitagill\nAndrew Khosravani @andrew_khosravani\nEd Smith @boxbeatrobot\nKatherine Spangenberg @katiediazz.art\nGaurav Wakankar @gwakankar\nMaki Yoshikura @maki_animation\nMichael Towers @michael.towers\nNikunj Patel @spiralofsorts\nThomas Knowler @knowlerdraws\n\nCompositors:\nJonathan Gallagher @grasptheview\nPaul Cheshire @paul_cheshire\nAdriano Vessichelli @adrianovessichelli\n\nEditor: David Toba @ediztor\n\nLyrics:\nTHE WEEKND\nI saw you dancing in a crowded room\nYou look so happy when I’m not with you\nBut then you saw me caught you by surprise\nA single teardrop falling from your eyes\nI don’t know why I run away\nI make you cry when I run away\nYou could’ve asked my why I broke your heart\nYou could’ve told me that you fell apart\nBut you walked past me like I wasn’t there\nAnd just pretended like you didn’t care\nI don’t know why I run away\nI make you cry when I run away\nTake me back cause I wanna stay\nSave your tears for another…\nSave your tears for another day\nSave your tears for another day\n\nARIANA GRANDE\nMet you once under a Pisces moon\nI kept my distance ‘cause I know that you\nDon’t like when I’m with nobody else\nI couldn’t help it, I put you through hell\nI don’t know why I run away, oh boy\nI make you cry when I run away\nBoy take me back ‘cause I wanna stay\nSave your tears for another\nI realize that it’s much too late\nAnd you deserve someone better\n\nTHE WEEKND & ARIANA GRANDE\nSave your tears for another day\nSave your tears for another day\nI don’t know why, I run away\nI make you cry when I run away\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\n\n#TheWeeknd #ArianaGrande #SaveYourTearsRemix"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "IO",
+            "KP",
+            "SS"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "296469755",
+        "likeCount": "3646742",
+        "favoriteCount": "0",
+        "commentCount": "91582"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OPy-sOGJ2WaRQg9zAYaM2c4BDu0",
+      "id": "wp43OdtAAkM",
+      "snippet": {
+        "publishedAt": "2011-01-15T17:37:46Z",
+        "channelId": "UC31hY7kg7CUOBpdyn9d_gYA",
+        "title": "Kate Bush - Running Up That Hill - Official Music Video",
+        "description": "Official music video for the single \"Running Up That Hill\" written and produced by British singer Kate Bush.\n\nThe song was the first single from Kate's 1985 album Hounds of Love and released in the UK on 5 August 1985.\n  \n\"Running Up That Hill\" entered the UK chart at number 9 and eventually peaked at number 3.   The single also reached the top 30 in the United States.\n\n\"Running Up That Hill (A Deal With God) 2012 REMIX\" - is out now.  Full story here: http://is.gd/VueBgP",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wp43OdtAAkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wp43OdtAAkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wp43OdtAAkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KateBushMusic",
+        "tags": [
+          "Kate Bush",
+          "Music",
+          "Video",
+          "Music Video",
+          "Official",
+          "Noble & Brite",
+          "British",
+          "Single",
+          "Official Video",
+          "Running Up That Hill",
+          "Hounds of Love",
+          "1985",
+          "Michael Hervieu",
+          "Dyanne Gray",
+          "new wave",
+          "official music",
+          "offical"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kate Bush - Running Up That Hill - Official Music Video",
+          "description": "Official music video for the single \"Running Up That Hill\" written and produced by British singer Kate Bush.\n\nThe song was the first single from Kate's 1985 album Hounds of Love and released in the UK on 5 August 1985.\n  \n\"Running Up That Hill\" entered the UK chart at number 9 and eventually peaked at number 3.   The single also reached the top 30 in the United States.\n\n\"Running Up That Hill (A Deal With God) 2012 REMIX\" - is out now.  Full story here: http://is.gd/VueBgP"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "241468611",
+        "likeCount": "2772550",
+        "favoriteCount": "0",
+        "commentCount": "120414"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NOh3NwppMiP_ikuHkVYXvvk7W9U",
+      "id": "wYeFAlVC8qU",
+      "snippet": {
+        "publishedAt": "2020-04-26T16:59:54Z",
+        "channelId": "UCtxdfwb9wfkoGocVUAJ-Bmg",
+        "title": "Travis Scott and Fortnite Present: Astronomical (Full Event Video)",
+        "description": "THE SCOTTS - OUT NOW: https://THESCOTTS.lnk.to/THESCOTTS\nOFFICIAL STORE: https://shop.travisscott.com\n \nAstronomical is an other-worldly experience by Travis Scott and Cactus Jack’s creations, built from the ground up in Fortnite. Watch the full event experience now.\n\nFeaturing the songs:\n\nSICKO MODE\n\nHIGHEST IN THE ROOM\n\ngoosebumps\n\nSTARGAZING\n \nTHE SCOTTS\n \nhttps://instagram.com/travisscott\nhttps://instagram.com/kidcudi\nhttps://instagram.com/cactusjack\nhttps://twitter.com/trvisXX\nhttps://twitter.com/KidCudi\nhttps://travisscott.com\nhttp://www.kidcudi.com/\n(P) 2020 Epic Records. With Cactus Jack / Wicked Awesome.\n\n#TravisScott #KidCudi #FORTNITE #ASTRONOMICAL #THESCOTTS #FortniteTravisScottEvent",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wYeFAlVC8qU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wYeFAlVC8qU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wYeFAlVC8qU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wYeFAlVC8qU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wYeFAlVC8qU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Travis Scott",
+        "tags": [
+          "fortnite",
+          "travis scott",
+          "fortnite event",
+          "travis scott concert",
+          "fortnite travis scott event",
+          "fortnite travis scott concert",
+          "travis scott in fortnite",
+          "fortnite concert",
+          "epic games",
+          "astronomical",
+          "travis scott astronomical",
+          "sicko mode",
+          "highest in the room",
+          "goosebumps",
+          "stargazing",
+          "the scotts",
+          "astro jack",
+          "kid cudi",
+          "cactus jack"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Travis Scott and Fortnite Present: Astronomical (Full Event Video)",
+          "description": "THE SCOTTS - OUT NOW: https://THESCOTTS.lnk.to/THESCOTTS\nOFFICIAL STORE: https://shop.travisscott.com\n \nAstronomical is an other-worldly experience by Travis Scott and Cactus Jack’s creations, built from the ground up in Fortnite. Watch the full event experience now.\n\nFeaturing the songs:\n\nSICKO MODE\n\nHIGHEST IN THE ROOM\n\ngoosebumps\n\nSTARGAZING\n \nTHE SCOTTS\n \nhttps://instagram.com/travisscott\nhttps://instagram.com/kidcudi\nhttps://instagram.com/cactusjack\nhttps://twitter.com/trvisXX\nhttps://twitter.com/KidCudi\nhttps://travisscott.com\nhttp://www.kidcudi.com/\n(P) 2020 Epic Records. With Cactus Jack / Wicked Awesome.\n\n#TravisScott #KidCudi #FORTNITE #ASTRONOMICAL #THESCOTTS #FortniteTravisScottEvent"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT8M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "216364633",
+        "likeCount": "3782088",
+        "favoriteCount": "0",
+        "commentCount": "148825"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zshEq4M5dewske7qeZgr3SLuQSo",
+      "id": "Dst9gZkq1a8",
+      "snippet": {
+        "publishedAt": "2017-04-14T16:00:01Z",
+        "channelId": "UClRx3MMyYUyqOxyEqA5F2nQ",
+        "title": "Travis Scott - goosebumps ft. Kendrick Lamar",
+        "description": "\"Birds in the Trap Sing McKnight\" Available at iTunes: http://smarturl.it/BITTSM\nApple Music: http://smarturl.it/BITTSM_AM\nSpotify: http://smarturl.it/BITTSM_Sptfy\nAmazon: http://smarturl.it/BITTSM_Dig\nGoogle Play: http://smarturl.it/BITTSM_GP\n\nTravis Scott online:\nhttps://twitter.com/trvisxx\nhttps://instagram.com/travisscott/\nhttps://www.facebook.com/travisscottlaflame\n\n(C) 2017 Cactus Jack Records, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dst9gZkq1a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dst9gZkq1a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dst9gZkq1a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dst9gZkq1a8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dst9gZkq1a8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TravisScottVEVO",
+        "tags": [
+          "#LaFlame",
+          "3500",
+          "Days Before Rodeo",
+          "La Flame",
+          "Mamacita",
+          "Owl Pharaoh",
+          "Quintana",
+          "Rap",
+          "Rodeo",
+          "Travi$",
+          "Upper Echelon",
+          "Birds in the Trap Sing McKnight",
+          "Quavo",
+          "Young Thug",
+          "LaFlame",
+          "Epic/Grand Hustle",
+          "Hip Hop",
+          "Travis Scott feat. Kendrick Lamar",
+          "goosebumps"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Travis Scott - goosebumps ft. Kendrick Lamar",
+          "description": "\"Birds in the Trap Sing McKnight\" Available at iTunes: http://smarturl.it/BITTSM\nApple Music: http://smarturl.it/BITTSM_AM\nSpotify: http://smarturl.it/BITTSM_Sptfy\nAmazon: http://smarturl.it/BITTSM_Dig\nGoogle Play: http://smarturl.it/BITTSM_GP\n\nTravis Scott online:\nhttps://twitter.com/trvisxx\nhttps://instagram.com/travisscott/\nhttps://www.facebook.com/travisscottlaflame\n\n(C) 2017 Cactus Jack Records, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT4M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "AE",
+            "AF",
+            "BH",
+            "EG",
+            "EH",
+            "IQ",
+            "IR",
+            "JO",
+            "KW",
+            "LB",
+            "LY",
+            "OM",
+            "PS",
+            "QA",
+            "SA",
+            "SD",
+            "SY",
+            "YE"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "925415076",
+        "likeCount": "9085065",
+        "favoriteCount": "0",
+        "commentCount": "191726"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jqH38pHMPxI-5h3KpE78GX_yob0",
+      "id": "S6h6bf0ZR6U",
+      "snippet": {
+        "publishedAt": "2024-01-26T00:00:16Z",
+        "channelId": "UCVlig7co3SpWQtQhHM7Q8-Q",
+        "title": "The Realization",
+        "description": "Twitch https://www.twitch.tv/dantes\nBusiness inquiries: doaenel@spectrumgmt.com\nEditor: https://twitter.com/dailyvods\n\nFOLLOW ME HERE:\n► TWITTER:  https://www.twitter.com/doaenel\n► INSTAGRAM: https://www.instagram.com/doaenel\n► DISCORD: https://discord.gg/doaenel\n#shorts #leagueoflegends #doaenel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S6h6bf0ZR6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S6h6bf0ZR6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S6h6bf0ZR6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S6h6bf0ZR6U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S6h6bf0ZR6U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Doaenel Shorts",
+        "tags": [
+          "lol",
+          "league of legends",
+          "rank 1 hecarim",
+          "doaenel",
+          "doaenel hecarim",
+          "hecarim build",
+          "hecarim guide",
+          "hecarim gameplay",
+          "season 11 hecarim guide",
+          "season 11 hecarim build",
+          "season 11 hecarim gameplay",
+          "s11 hecarim build",
+          "s11 hecarim guide",
+          "s11 hecarim gameplay",
+          "hecarim top",
+          "season 11 hecarim",
+          "new items season 11",
+          "season 11 new items",
+          "league of legends new items",
+          "new items league of legends",
+          "season 11 league of legends new items",
+          "new items seaosn 11 league of legends"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Realization",
+          "description": "Twitch https://www.twitch.tv/dantes\nBusiness inquiries: doaenel@spectrumgmt.com\nEditor: https://twitter.com/dailyvods\n\nFOLLOW ME HERE:\n► TWITTER:  https://www.twitter.com/doaenel\n► INSTAGRAM: https://www.instagram.com/doaenel\n► DISCORD: https://discord.gg/doaenel\n#shorts #leagueoflegends #doaenel"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "29047",
+        "likeCount": "1881",
+        "favoriteCount": "0",
+        "commentCount": "50"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ghr3097pFTJYzpAKK3WX1iS0-YE",
+      "id": "KvMY1uzSC1E",
+      "snippet": {
+        "publishedAt": "2022-10-03T18:00:00Z",
+        "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+        "title": "Cyberpunk: Edgerunners | “I Really Want to Stay At Your House” by Rosa Walton | Music Video",
+        "description": "Thank you to all of the incredible artists who contributed to the magic that is Cyberpunk: Edgerunners, and to all of the fans who blew the show up to create one of the most memorable anime of Netflix history to date.\n \nDavid + Lucy Forever.\n \nCyberpunk: Edgerunners is a 10 episode original Netflix anime series produced by CD Projekt Red and Studio Trigger.\n \n\"I Really Wanna Stay At Your House\" by Rosa Walton (Let's Eat Grandma)\nWritten by: Rosa Walton\nPerformed by: Rosa Walton (Let’s Eat Grandma)\nProduced by: Rosa Walton\nMix and addition production by: Neil Comber\nPublished by: Blue Raincoat Ltd. \nAppears courtesy of Transgressive Management Ltd\n \nhttp://letseatgrandma.co.uk/\nRosa Walton solo track: https://lnk.to/irwtsayh\n \nOfficial Music Video edited by Nicholas Fung\n \nLyrics\nI couldn't wait for you to come clear the cupboards\nBut now you're going to leave with nothing but a sign\nAnother evening I'll be sitting reading in between your lines\nBecause I miss you all the time\n \nSo, get away\nAnother way to feel what you didn't want yourself to know\nAnd let yourself go\nYou know you didn't lose your self-control\nLet's start at the rainbow\nTurn away\nAnother way to be where you didn't want yourself to go\nLet yourself go\nIs that a compromise\n \nSo what do you wanna do, what's your point-of-view?\nThere's a party soon, do you wanna go?\nA handshake with you, what's your point-of-view?\nI'm on top of you, I don't wanna go\n'Cause I really wanna stay at your house\nAnd I hopе this works out\nBut you know how much you broke me apart\nI'm done with you, I'm ignoring you\nI don't wanna know\n \nAnd I'm awarе that you were lying in the gutter\n'Cause I did everything to be there by your side-ide\nSo when you tell me I'm the reason I just can't believe the lies\nAnd why do I so want to call you (Call you, call you, call you)\n \nSo what do you wanna do, what's your point-of-view?\nThere's a party soon, do you wanna go?\nA handshake with you, what's your point-of-view?\nI'm on top of you, I don't wanna go\n'Cause I really wanna stay at your house\nAnd I hope this works out\nBut you know how much you broke me apart\nI'm done with you, I'm ignoring you\nI don't wanna know\nYou\nOh-oh oh-oh-oh\nI don't know why I'm no-one\n \nSo, get away\nAnother way to feel what you didn't want yourself to know\nAnd let yourself go\nYou know you didn't lose your self-control\nLet's start at the rainbow\nTurn away\nAnother way to be where you didn't want yourself to go\nLet yourself go\nIs that a compromise\n \nSo what do you wanna do, what's your point-of-view\nThere's a party soon, do you wanna go?\nA handshake with you, what's your point-of-view?\nI'm on top of you, I don't wanna go\n'Cause I really wanna stay at your house\nAnd I hope this works out\nBut you know how much you broke me apart\nI'm done with you, I'm ignoring you\nI don't wanna know\n \nPS: Justice for Rebecca.\n\nSUBSCRIBE: http://bit.ly/29qBUt7\n\nAbout Netflix:\nNetflix is the world's leading streaming entertainment service with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any Internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.\n\nCyberpunk: Edgerunners | “I Really Want to Stay At Your House” by Rosa Walton | Music Video\nhttps://youtube.com/Netflix\n\nIn a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KvMY1uzSC1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KvMY1uzSC1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KvMY1uzSC1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KvMY1uzSC1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KvMY1uzSC1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix",
+        "tags": [
+          "Cyberpunk",
+          "David",
+          "I really want to stay at your house",
+          "Japan",
+          "Lucy",
+          "Netflix",
+          "Netflix animation",
+          "Rebecca",
+          "amp",
+          "animated",
+          "anime",
+          "anime of the year",
+          "billboard 100",
+          "clear the cupboards",
+          "cyberpunk 2077",
+          "cyberpunk edgerunners",
+          "edgerunners",
+          "emo",
+          "emotional",
+          "house",
+          "ign",
+          "imaishi",
+          "music video",
+          "ost",
+          "rosa Walton",
+          "sentimental",
+          "song",
+          "soundtrack",
+          "studio trigger",
+          "trending",
+          "wanna",
+          "yoh yoshinari"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cyberpunk: Edgerunners | “I Really Want to Stay At Your House” by Rosa Walton | Music Video",
+          "description": "Thank you to all of the incredible artists who contributed to the magic that is Cyberpunk: Edgerunners, and to all of the fans who blew the show up to create one of the most memorable anime of Netflix history to date.\n \nDavid + Lucy Forever.\n \nCyberpunk: Edgerunners is a 10 episode original Netflix anime series produced by CD Projekt Red and Studio Trigger.\n \n\"I Really Wanna Stay At Your House\" by Rosa Walton (Let's Eat Grandma)\nWritten by: Rosa Walton\nPerformed by: Rosa Walton (Let’s Eat Grandma)\nProduced by: Rosa Walton\nMix and addition production by: Neil Comber\nPublished by: Blue Raincoat Ltd. \nAppears courtesy of Transgressive Management Ltd\n \nhttp://letseatgrandma.co.uk/\nRosa Walton solo track: https://lnk.to/irwtsayh\n \nOfficial Music Video edited by Nicholas Fung\n \nLyrics\nI couldn't wait for you to come clear the cupboards\nBut now you're going to leave with nothing but a sign\nAnother evening I'll be sitting reading in between your lines\nBecause I miss you all the time\n \nSo, get away\nAnother way to feel what you didn't want yourself to know\nAnd let yourself go\nYou know you didn't lose your self-control\nLet's start at the rainbow\nTurn away\nAnother way to be where you didn't want yourself to go\nLet yourself go\nIs that a compromise\n \nSo what do you wanna do, what's your point-of-view?\nThere's a party soon, do you wanna go?\nA handshake with you, what's your point-of-view?\nI'm on top of you, I don't wanna go\n'Cause I really wanna stay at your house\nAnd I hopе this works out\nBut you know how much you broke me apart\nI'm done with you, I'm ignoring you\nI don't wanna know\n \nAnd I'm awarе that you were lying in the gutter\n'Cause I did everything to be there by your side-ide\nSo when you tell me I'm the reason I just can't believe the lies\nAnd why do I so want to call you (Call you, call you, call you)\n \nSo what do you wanna do, what's your point-of-view?\nThere's a party soon, do you wanna go?\nA handshake with you, what's your point-of-view?\nI'm on top of you, I don't wanna go\n'Cause I really wanna stay at your house\nAnd I hope this works out\nBut you know how much you broke me apart\nI'm done with you, I'm ignoring you\nI don't wanna know\nYou\nOh-oh oh-oh-oh\nI don't know why I'm no-one\n \nSo, get away\nAnother way to feel what you didn't want yourself to know\nAnd let yourself go\nYou know you didn't lose your self-control\nLet's start at the rainbow\nTurn away\nAnother way to be where you didn't want yourself to go\nLet yourself go\nIs that a compromise\n \nSo what do you wanna do, what's your point-of-view\nThere's a party soon, do you wanna go?\nA handshake with you, what's your point-of-view?\nI'm on top of you, I don't wanna go\n'Cause I really wanna stay at your house\nAnd I hope this works out\nBut you know how much you broke me apart\nI'm done with you, I'm ignoring you\nI don't wanna know\n \nPS: Justice for Rebecca.\n\nSUBSCRIBE: http://bit.ly/29qBUt7\n\nAbout Netflix:\nNetflix is the world's leading streaming entertainment service with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any Internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.\n\nCyberpunk: Edgerunners | “I Really Want to Stay At Your House” by Rosa Walton | Music Video\nhttps://youtube.com/Netflix\n\nIn a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT4M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "25403464",
+        "likeCount": "598353",
+        "favoriteCount": "0",
+        "commentCount": "17798"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mNerreT7GdBsWeHOnP7KbS4R3is",
+      "id": "2NWcBWD8xqs",
+      "snippet": {
+        "publishedAt": "2020-09-14T21:01:25Z",
+        "channelId": "UCHMm6sZIHcDNEcpzHMEPTGQ",
+        "title": "burbank - backyard",
+        "description": "omg another anime amv just cuz theyre simple and lofi \nALSO NEW ALBUM COMING OUT WINTER 2020 WITH A SHIT TON OF SONGS IVE BEEN MAKING FOR THE PAST YEAR IN QUARANTINE\n\nthank you for the continued support to everyone who goes to my youtube!! if ur reading this ur pretty cool :D\n\nfootage swiped from here https://www.youtube.com/watch?v=4KgPuUv-6u8\n\nsoundcloud link : https://soundcloud.com/danielburbank/...\nbandcamp : https://danielburbank.bandcamp.com/\nspotify : https://open.spotify.com/artist/4iHB5...\ntwitter : https://twitter.com/cozyburbank",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2NWcBWD8xqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2NWcBWD8xqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2NWcBWD8xqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2NWcBWD8xqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "burbank",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "burbank - backyard",
+          "description": "omg another anime amv just cuz theyre simple and lofi \nALSO NEW ALBUM COMING OUT WINTER 2020 WITH A SHIT TON OF SONGS IVE BEEN MAKING FOR THE PAST YEAR IN QUARANTINE\n\nthank you for the continued support to everyone who goes to my youtube!! if ur reading this ur pretty cool :D\n\nfootage swiped from here https://www.youtube.com/watch?v=4KgPuUv-6u8\n\nsoundcloud link : https://soundcloud.com/danielburbank/...\nbandcamp : https://danielburbank.bandcamp.com/\nspotify : https://open.spotify.com/artist/4iHB5...\ntwitter : https://twitter.com/cozyburbank"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "92240",
+        "likeCount": "3453",
+        "favoriteCount": "0",
+        "commentCount": "189"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9XL8RcqdoJeXyGlvD4SeVkxkdvE",
+      "id": "ii7wMothcqI",
+      "snippet": {
+        "publishedAt": "2023-09-02T12:01:27Z",
+        "channelId": "UCq46lKycfqrBtUPTxUk_NRQ",
+        "title": "@laufey - Falling Behind (Lyrics)",
+        "description": "Laufey - Falling Behind (Lyrics)\nLaufey - Falling Behind \nGet it here: https://laufey.ffm.to/eikaldeluxe\n\nFollow Laufey\nInstagram: https://www.instagram.com/laufey/\nTwitter: https://twitter.com/laufey\nTikTok: https://www.tiktok.com/@laufey\nFacebook: https://www.facebook.com/laufeymusic/\n\nFollow Dan Music\n    https://www.instagram.com/dan___music/\n    https://web.facebook.com/Danmusic4/\n\nSong Lyrics:\n\nMoved out to a new city\nJune is dawning down on me\nAnd all that I can find’s\n\nA sickly romance in the air\nLovers stroll without a care in sight\nOh this can’t be right..\n\nCause the sun’s engaged to the sky\nAnd my best friends found a new guy\nI'm only getting older\nI've never had a shoulder to cry on\nSomeone to call mine\nEverybody’s falling in love\nAnd I'm falling behind\n\nTouched the ocean fell right in\nStepped outside and burned my skin\nMy life wont go my way\n\nBossa nova in my room\nHope that I’ll find someone too\nTo love, because\n\nThe sun’s engaged to the sky\nAnd my best friends found a new guy\nI'm only getting older\nI've never had a shoulder to cry on\nSomeone to call mine\nEverybody’s falling in love\nAnd I'm falling behind\n\nEverybody’s falling in love\nEverybody’s falling in love\nEverybody’s falling in love but me\n\nLyric video for Falling Behind by Laufey  on Dan Music\n\n#Laufey #FallingBehind #DanMusic \n\nExperience the soulful melodies of Laufey's hit song \"Falling Behind.\" Dive into the heartfelt lyrics that resonate with the feeling of longing and the essence of love in today's world. Featured as a trending TikTok song, this jazzy-pop track from Laufey's debut album captures the emotions of many.\n\nContact - contact@danmusic.net",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ii7wMothcqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ii7wMothcqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ii7wMothcqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ii7wMothcqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ii7wMothcqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dan Music",
+        "tags": [
+          "dan music",
+          "aufey",
+          "falling behind",
+          "lyrics",
+          "laufey falling behind",
+          "falling behind laufey lyrics",
+          "tiktok song",
+          "new city",
+          "sun's engaged to the sky",
+          "everybody's falling in love",
+          "falling behind chords",
+          "falling behind cover",
+          "laufey guitar",
+          "laufey acoustic",
+          "laufey lin",
+          "jazzy",
+          "debut album",
+          "music video",
+          "bossa nova",
+          "laufey live",
+          "laufey tiktok",
+          "falling in love",
+          "laufey playlist 2023",
+          "laufey promise",
+          "laufey bewitched",
+          "romance",
+          "love",
+          "falling",
+          "heart",
+          "pop music",
+          "jazz pop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "@laufey - Falling Behind (Lyrics)",
+          "description": "Laufey - Falling Behind (Lyrics)\nLaufey - Falling Behind \nGet it here: https://laufey.ffm.to/eikaldeluxe\n\nFollow Laufey\nInstagram: https://www.instagram.com/laufey/\nTwitter: https://twitter.com/laufey\nTikTok: https://www.tiktok.com/@laufey\nFacebook: https://www.facebook.com/laufeymusic/\n\nFollow Dan Music\n    https://www.instagram.com/dan___music/\n    https://web.facebook.com/Danmusic4/\n\nSong Lyrics:\n\nMoved out to a new city\nJune is dawning down on me\nAnd all that I can find’s\n\nA sickly romance in the air\nLovers stroll without a care in sight\nOh this can’t be right..\n\nCause the sun’s engaged to the sky\nAnd my best friends found a new guy\nI'm only getting older\nI've never had a shoulder to cry on\nSomeone to call mine\nEverybody’s falling in love\nAnd I'm falling behind\n\nTouched the ocean fell right in\nStepped outside and burned my skin\nMy life wont go my way\n\nBossa nova in my room\nHope that I’ll find someone too\nTo love, because\n\nThe sun’s engaged to the sky\nAnd my best friends found a new guy\nI'm only getting older\nI've never had a shoulder to cry on\nSomeone to call mine\nEverybody’s falling in love\nAnd I'm falling behind\n\nEverybody’s falling in love\nEverybody’s falling in love\nEverybody’s falling in love but me\n\nLyric video for Falling Behind by Laufey  on Dan Music\n\n#Laufey #FallingBehind #DanMusic \n\nExperience the soulful melodies of Laufey's hit song \"Falling Behind.\" Dive into the heartfelt lyrics that resonate with the feeling of longing and the essence of love in today's world. Featured as a trending TikTok song, this jazzy-pop track from Laufey's debut album captures the emotions of many.\n\nContact - contact@danmusic.net"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "988084",
+        "likeCount": "9534",
+        "favoriteCount": "0",
+        "commentCount": "277"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rPJFKvMkq3JH3uBvkaESdwNCALU",
+      "id": "ELdqtgi8zxI",
+      "snippet": {
+        "publishedAt": "2022-09-12T16:15:52Z",
+        "channelId": "UCduM_Sivw28lZozgers2EKQ",
+        "title": "『サイバーパンク エッジランナーズ』エンディング曲 | Dawid Podsiadło — Let You Down | Netflix",
+        "description": "※日本語の歌詞はYouTubeの字幕機能で表示頂けます\nDawid Podsiadło — Let You Down (Netflix シリーズ『サイバーパンク エッジランナーズ』エンディング曲) \n\nミュージックビデオ\n監督：イリヤ・クブシノブ\n制作：スタジオ マスケット\n\n『サイバーパンク エッジランナーズ』はNetflixで9月13日16:00公開。\n\n『サイバーパンク エッジランナーズ』とは \nテクノロジーと人体改造が一般化した未来都市ナイトシティで、ストリートキッドとして生きる少年を10話構成の独立したストーリーで描く。すべてを失ったデイビッドが生き延びるために選んだ道、それは\"サイバーパンク\"として知られるアウトローの傭兵、エッジランナーになることだった。 \n\n制作を手掛けるのは、ゲームタイトル『サイバーパンク2077』の制作会社CD PROJEKT RED。ショーランナーと制作総指揮はラファル・ヤキ (『ウィッチャー３ ワイルドハント』『サイバーパンク2077』『ウィッチャー ローニン』)、プロデューサーは本間覚、バルトシュ・シュテボル、エルダー爽が務める。CD PROJEKT REDの担当チームは2018年からこの新シリーズに着手。日本を拠点とする業界屈指の制作会社トリガーがアニメーションを担当し、サイバーパンクの世界観を得意の迫力あるスタイルで描き出す。監督は今石洋之 (『天元突破グレンラガン』『キルラキル』『プロメア』)、クリエイティブディレクターは若林広海 (『キルラキル』)、キャラクターデザインと総作画監督を吉成曜 (『リトルウィッチアカデミア』『BNA ビー・エヌ・エー』)が務め 、脚本は宇佐義大 (『GRIDMAN UNIVERSE』シリーズ、『プロメア』) と大塚雅彦 (『スター・ウォーズ：ビジョンズ ‘The Elder’』)。劇伴制作は山岡晃 (『サイレントヒル』シリーズ) が担当する。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ELdqtgi8zxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ELdqtgi8zxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ELdqtgi8zxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ELdqtgi8zxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CD PROJEKT RED JAPAN",
+        "tags": [
+          "グウェント",
+          "ウィッチャーカードゲーム",
+          "TCG",
+          "トレーディングカードゲーム",
+          "カードゲーム",
+          "カードバトル",
+          "デッキ",
+          "カード",
+          "ウィッチャー",
+          "ウィッチャー３",
+          "ワイルドハント",
+          "PV",
+          "トレーラー",
+          "ゲームプレイ",
+          "ゲーム",
+          "ゲラルト"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "『サイバーパンク エッジランナーズ』エンディング曲 | Dawid Podsiadło — Let You Down | Netflix",
+          "description": "※日本語の歌詞はYouTubeの字幕機能で表示頂けます\nDawid Podsiadło — Let You Down (Netflix シリーズ『サイバーパンク エッジランナーズ』エンディング曲) \n\nミュージックビデオ\n監督：イリヤ・クブシノブ\n制作：スタジオ マスケット\n\n『サイバーパンク エッジランナーズ』はNetflixで9月13日16:00公開。\n\n『サイバーパンク エッジランナーズ』とは \nテクノロジーと人体改造が一般化した未来都市ナイトシティで、ストリートキッドとして生きる少年を10話構成の独立したストーリーで描く。すべてを失ったデイビッドが生き延びるために選んだ道、それは\"サイバーパンク\"として知られるアウトローの傭兵、エッジランナーになることだった。 \n\n制作を手掛けるのは、ゲームタイトル『サイバーパンク2077』の制作会社CD PROJEKT RED。ショーランナーと制作総指揮はラファル・ヤキ (『ウィッチャー３ ワイルドハント』『サイバーパンク2077』『ウィッチャー ローニン』)、プロデューサーは本間覚、バルトシュ・シュテボル、エルダー爽が務める。CD PROJEKT REDの担当チームは2018年からこの新シリーズに着手。日本を拠点とする業界屈指の制作会社トリガーがアニメーションを担当し、サイバーパンクの世界観を得意の迫力あるスタイルで描き出す。監督は今石洋之 (『天元突破グレンラガン』『キルラキル』『プロメア』)、クリエイティブディレクターは若林広海 (『キルラキル』)、キャラクターデザインと総作画監督を吉成曜 (『リトルウィッチアカデミア』『BNA ビー・エヌ・エー』)が務め 、脚本は宇佐義大 (『GRIDMAN UNIVERSE』シリーズ、『プロメア』) と大塚雅彦 (『スター・ウォーズ：ビジョンズ ‘The Elder’』)。劇伴制作は山岡晃 (『サイレントヒル』シリーズ) が担当する。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT4M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2798086",
+        "likeCount": "59166",
+        "favoriteCount": "0",
+        "commentCount": "876"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5KqlKd3JwelMDB5ohzkUtgFX6FY",
+      "id": "-OmPRUBx6TQ",
+      "snippet": {
+        "publishedAt": "2024-01-07T17:50:25Z",
+        "channelId": "UCwvpjzk-CFQZYbK0qgALYiQ",
+        "title": "Joji - My Love Mine All Mine (AI Cover)",
+        "description": "Moon, a hole of light..\n\n\nThumbnail + Visualizer: Original\nOriginal Song: https://www.youtube.com/watch?v=CwGbMYLjIpQ\n\nDisclaimer\nThis track will never be used for profit. The vocals used in this AI-generated track are based on the voice of the artist George Miller, professionally known as \"Joji\". Please note that I do not have any legal rights to use his voice for commercial purposes or in any way that suggests endorsement or affiliation with my product. The AI-generated vocals are a result of using advanced machine learning algorithms and audio processing techniques to create an artificial representation of the original artist's voice. \n\nI acknowledge that the voice used in this AI-generated track is the intellectual property of George Miller, and any use of his voice without his consent may be in violation of his rights as a recording artist. My intention is not to infringe on any copyright or intellectual property rights held by George Miller or his affiliated record labels. \n\nI do not take any responsibility for any legal issues that may arise from the use of this AI-generated track without proper authorization.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-OmPRUBx6TQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-OmPRUBx6TQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-OmPRUBx6TQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-OmPRUBx6TQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-OmPRUBx6TQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JigSauce",
+        "tags": [
+          "FYP",
+          "For You",
+          "Viral",
+          "Recommended",
+          "Remix",
+          "Joji"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Joji - My Love Mine All Mine (AI Cover)",
+          "description": "Moon, a hole of light..\n\n\nThumbnail + Visualizer: Original\nOriginal Song: https://www.youtube.com/watch?v=CwGbMYLjIpQ\n\nDisclaimer\nThis track will never be used for profit. The vocals used in this AI-generated track are based on the voice of the artist George Miller, professionally known as \"Joji\". Please note that I do not have any legal rights to use his voice for commercial purposes or in any way that suggests endorsement or affiliation with my product. The AI-generated vocals are a result of using advanced machine learning algorithms and audio processing techniques to create an artificial representation of the original artist's voice. \n\nI acknowledge that the voice used in this AI-generated track is the intellectual property of George Miller, and any use of his voice without his consent may be in violation of his rights as a recording artist. My intention is not to infringe on any copyright or intellectual property rights held by George Miller or his affiliated record labels. \n\nI do not take any responsibility for any legal issues that may arise from the use of this AI-generated track without proper authorization."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "124631",
+        "likeCount": "9903",
+        "favoriteCount": "0",
+        "commentCount": "155"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kxekxHvVesb-SefTCgrD8n_fA3s",
+      "id": "mrZC1Jcv0dw",
+      "snippet": {
+        "publishedAt": "2019-12-19T15:06:33Z",
+        "channelId": "UC4zyoIAzmdsgpDZQfO1-lSA",
+        "title": "Grimes – 4ÆM",
+        "description": "oo-\naphrodite, i wrote your constellation\ninto the sky\ns s s s s sa\nsuns at night\n\nim out late, at 4am,\nhe says how's the weather baby how you been\nur gonna get sick\nu don't know when\ni never doubt it\nat 4am\n\n4am 4am\nfallin down again\nunravelling\n\nCyberpunk 2077, the open-world, action-adventure story from CD PROJEKT RED, is coming April 16th, 2020.\n\nPre-order now: https://www.cyberpunk.net/pre-order\n\nAbout Cyberpunk 2077:\nIn the most dangerous megacity of the future, the real you is not enough. Become V, a cyber-enhanced mercenary outlaw going after a one-of-a-kind implant — the key to immortality. Customize your cyberware and skillset, and explore a vast city of the future obsessed with power, glamour and body modification. The choices you make will determine the story and shape the world around you.  \n\nLearn more:\nhttps://www.cyberpunk.net \nhttps://www.twitter.com/CyberpunkGame\nhttps://www.facebook.com/CyberpunkGame \nhttps://www.instagram.com/CyberpunkGame\nhttps://www.discord.gg/CyberpunkGame\nhttps://www.CyberpunkGame.tumblr.com\n\n'4ÆM' by Grimes out now: http://grimes.ffm.to/violence\nProduced, Performed, and Engineered by Grimes\n'Miss Anthropocene' release date: February 21st: https://grimes.ffm.to/missanthropocene\n\nhttp://www.grimesmusic.com\nhttps://www.youtube.com/user/Grimezsz/\nhttps://www.instagram.com/grimes\nhttps://www.twitter.com/Grimezsz\nhttp://www.actuallygrimes.tumblr.com\nhttps://www.facebook.com/actuallygrimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mrZC1Jcv0dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mrZC1Jcv0dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mrZC1Jcv0dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mrZC1Jcv0dw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mrZC1Jcv0dw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cyberpunk 2077",
+        "tags": [
+          "Cyberpunk",
+          "Cyberpunk 2077",
+          "CP",
+          "CP77",
+          "CP2077",
+          "2077",
+          "TGA",
+          "TGA 2019",
+          "The Game Awards",
+          "Game Awards",
+          "official",
+          "soundtrack",
+          "music",
+          "Grimes",
+          "4 AM",
+          "4am",
+          "4ÆM",
+          "video game",
+          "game",
+          "RPG",
+          "Night City",
+          "cd projekt",
+          "cd projekt red",
+          "CDPR",
+          "cd project",
+          "cd project red"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Grimes – 4ÆM",
+          "description": "oo-\naphrodite, i wrote your constellation\ninto the sky\ns s s s s sa\nsuns at night\n\nim out late, at 4am,\nhe says how's the weather baby how you been\nur gonna get sick\nu don't know when\ni never doubt it\nat 4am\n\n4am 4am\nfallin down again\nunravelling\n\nCyberpunk 2077, the open-world, action-adventure story from CD PROJEKT RED, is coming April 16th, 2020.\n\nPre-order now: https://www.cyberpunk.net/pre-order\n\nAbout Cyberpunk 2077:\nIn the most dangerous megacity of the future, the real you is not enough. Become V, a cyber-enhanced mercenary outlaw going after a one-of-a-kind implant — the key to immortality. Customize your cyberware and skillset, and explore a vast city of the future obsessed with power, glamour and body modification. The choices you make will determine the story and shape the world around you.  \n\nLearn more:\nhttps://www.cyberpunk.net \nhttps://www.twitter.com/CyberpunkGame\nhttps://www.facebook.com/CyberpunkGame \nhttps://www.instagram.com/CyberpunkGame\nhttps://www.discord.gg/CyberpunkGame\nhttps://www.CyberpunkGame.tumblr.com\n\n'4ÆM' by Grimes out now: http://grimes.ffm.to/violence\nProduced, Performed, and Engineered by Grimes\n'Miss Anthropocene' release date: February 21st: https://grimes.ffm.to/missanthropocene\n\nhttp://www.grimesmusic.com\nhttps://www.youtube.com/user/Grimezsz/\nhttps://www.instagram.com/grimes\nhttps://www.twitter.com/Grimezsz\nhttp://www.actuallygrimes.tumblr.com\nhttps://www.facebook.com/actuallygrimes"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6685988",
+        "likeCount": "191318",
+        "favoriteCount": "0",
+        "commentCount": "10195"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xO_WnJUIuOWq-12APraJwrHXvq0",
+      "id": "m6CFrfKw60w",
+      "snippet": {
+        "publishedAt": "2023-11-23T10:00:08Z",
+        "channelId": "UCUXfRsEIJ9xO1DT7TbEWksw",
+        "title": "アヴァン(Avant) - Eve MV",
+        "description": "アヴァン (Avant) - Eve Music Video\n\n『呪術廻戦 ファントムパレード』OP主題歌\nhttps://www.youtube.com/watch?v=pUa4XP9ywCk\n\n▼Streaming / DL \nhttps://tf.lnk.to/avant\n\nVocal：Eve\nLyrics / Music：Eve\nArrangement：Numa\n\n◇Music Video Staff\nDirector : えーけー\n\ninst： https://www.dropbox.com/scl/fi/7oj60b4oxwn0cwbgq8277/Avant_Inst_EQd.mp3?rlkey=yy5e54jmb02na9k69l9dawil3&dl=0\n\nTVアニメ『呪術廻戦』1期OP主題歌\n\n廻廻奇譚(kaikaikitan) - Eve Music Video\nhttps://www.youtube.com/watch?v=1tk1pqwrOys\n\nStreaming/DL：https://tf.lnk.to/kaikaikitan\n\nlyric\n\n不屈な精神と 測り得ない 底無しの愛憎感\n汚れた万物の 色褪せない 命の不完全昇華\n\n気取られそうだった 淀みのない 真っすぐな眼光が\n独りを成していた 思い出せ 託した感情警笛を\n\n気まぐれな相槌など 交わす言葉もないけど\nこの身が焼けても守るものを知って\n\n想いも 声も 言葉も\n失くした感情さえ 愛も\n廻って 廻って 勝機繋いでいけ\n\n期待 後悔を重ねた\n番いのように縛りあって\n君だけ思い焦がれては\n希うように空を切って\n\n許しを待っていた 記憶のない 化けを纏っているようだ \n類稀な縁が 天賦の才 諸行無常 全能感\n\n胸が躍るようだ 君の為に死ねると言いたいな\n運命を一点に もう迷わない 呪いに生まれし核心を\n\nその理由を知らずとも 流す涙があるなら\n祈りが届かずとも手を伸ばして\n\n伝えたい 想いは溢れた\n隠した思い出さえ 愛も\n廻って 廻って 好機を待っていけ\n\n黒い閃光が散る音\n未来永劫な正体も\nまだ居てもいいというのなら\nそんな悲しい顔をしないで\n\n想いも 声も 言葉も\n失くした感情さえ 愛も\n\n期待 後悔を重ねた\n番いのように縛りあって\n君だけ思い焦がれては\n希うように空を切って\n\n想いも 声も 言葉も\n失くした感情さえ 愛も\n廻って 廻って\n勝機繋いでいけ\n\n期待 後悔を重ねた\n番いのように縛りあって\n\n今までと未来を乗せては\n微笑む感情が鳴る音\n\n君だけ思い焦がれては\n希うように空を切って\n\n#呪術廻戦  #jujutsukaisen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m6CFrfKw60w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m6CFrfKw60w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m6CFrfKw60w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m6CFrfKw60w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m6CFrfKw60w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eve",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "アヴァン(Avant) - Eve MV",
+          "description": "アヴァン (Avant) - Eve Music Video\n\n『呪術廻戦 ファントムパレード』OP主題歌\nhttps://www.youtube.com/watch?v=pUa4XP9ywCk\n\n▼Streaming / DL \nhttps://tf.lnk.to/avant\n\nVocal：Eve\nLyrics / Music：Eve\nArrangement：Numa\n\n◇Music Video Staff\nDirector : えーけー\n\ninst： https://www.dropbox.com/scl/fi/7oj60b4oxwn0cwbgq8277/Avant_Inst_EQd.mp3?rlkey=yy5e54jmb02na9k69l9dawil3&dl=0\n\nTVアニメ『呪術廻戦』1期OP主題歌\n\n廻廻奇譚(kaikaikitan) - Eve Music Video\nhttps://www.youtube.com/watch?v=1tk1pqwrOys\n\nStreaming/DL：https://tf.lnk.to/kaikaikitan\n\nlyric\n\n不屈な精神と 測り得ない 底無しの愛憎感\n汚れた万物の 色褪せない 命の不完全昇華\n\n気取られそうだった 淀みのない 真っすぐな眼光が\n独りを成していた 思い出せ 託した感情警笛を\n\n気まぐれな相槌など 交わす言葉もないけど\nこの身が焼けても守るものを知って\n\n想いも 声も 言葉も\n失くした感情さえ 愛も\n廻って 廻って 勝機繋いでいけ\n\n期待 後悔を重ねた\n番いのように縛りあって\n君だけ思い焦がれては\n希うように空を切って\n\n許しを待っていた 記憶のない 化けを纏っているようだ \n類稀な縁が 天賦の才 諸行無常 全能感\n\n胸が躍るようだ 君の為に死ねると言いたいな\n運命を一点に もう迷わない 呪いに生まれし核心を\n\nその理由を知らずとも 流す涙があるなら\n祈りが届かずとも手を伸ばして\n\n伝えたい 想いは溢れた\n隠した思い出さえ 愛も\n廻って 廻って 好機を待っていけ\n\n黒い閃光が散る音\n未来永劫な正体も\nまだ居てもいいというのなら\nそんな悲しい顔をしないで\n\n想いも 声も 言葉も\n失くした感情さえ 愛も\n\n期待 後悔を重ねた\n番いのように縛りあって\n君だけ思い焦がれては\n希うように空を切って\n\n想いも 声も 言葉も\n失くした感情さえ 愛も\n廻って 廻って\n勝機繋いでいけ\n\n期待 後悔を重ねた\n番いのように縛りあって\n\n今までと未来を乗せては\n微笑む感情が鳴る音\n\n君だけ思い焦がれては\n希うように空を切って\n\n#呪術廻戦  #jujutsukaisen"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT3M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6894770",
+        "likeCount": "161271",
+        "favoriteCount": "0",
+        "commentCount": "4275"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3,
+    "resultsPerPage": 3
+  }
+}

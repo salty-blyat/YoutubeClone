@@ -1,0 +1,96 @@
+body * {
+  margin: 0;
+  height: 100%;
+}
+a {
+  text-decoration: none;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
+
+.profile {
+  width: 32px;
+  height: 32px;
+}
+
+.hover {
+  padding: 0.5rem;
+}
+
+.hover:hover {
+  background-color: rgb(233, 233, 233);
+}
+
+.youtubeLogo:hover {
+  cursor: pointer;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.sidebar {
+  color: black;
+  text-decoration: none;
+}
+
+.sidebar:hover {
+  background-color: rgb(199, 199, 199);
+  border-radius: 1rem;
+  border: "1px solid black";
+}
+
+@mixin text-collapse($lines) {
+  display: -webkit-box;
+  -webkit-line-clamp: $lines;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  /* For non-WebKit browsers like Firefox */
+  display: -moz-box;
+  overflow: hidden;
+  -moz-box-orient: vertical;
+}
+
+.text-collapse-2 {
+  @include text-collapse(2);
+}
+
+.text-collapse-3 {
+  @include text-collapse(3);
+  line-height: 1.2; /* Adjust as needed for your font and layout */
+  max-height: 3.6; /* 3 lines multiplied by the line height */
+  overflow: hidden;
+}
+.text-collapse-6 {
+  @include text-collapse(6);
+}
+
+.suggestion-box {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  width: 100%;
+  max-height: 200px;
+  overflow-y: auto;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.suggestion-box a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+  transition: background-color 0.3s ease;
+}
+
+.suggestion-box a:hover {
+  background-color: #f5f5f5;
+}
