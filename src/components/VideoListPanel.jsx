@@ -1,5 +1,5 @@
 import React from "react";
-import { GetTime } from "../utils/getTime";
+import { GetTime } from "../utils/GetTime";
 import { GetViews } from "../utils/GetViews";
 import { Link } from "react-router-dom";
 

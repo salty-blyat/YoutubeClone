@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { GetTime } from "../utils/getTime.jsx";
+import { GetTime } from "../utils/GetTime.jsx";
 import { GetViews } from "../utils/GetViews.jsx";
 
 export const DescriptionText = ({ description, date, views }) => {
